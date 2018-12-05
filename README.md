@@ -23,11 +23,13 @@ Linux Kernel 28.2 for Jetson Required
 2. Connect Jetson to Host Linux Machine via Ethernet Bridge
 3. Follow setup steps and specify connection via Ethernet Bridge in Jetpack installer
 4. Specify Full Install and Accept all EULAs, then follow all the steps to set Jetson into recovery mode
+
 CUDA 8.0 required
 1. Download Jetpack 3.1 onto Host Linux Machine
 2. Connect Hetson to Host Linux Machine via Ethernet Bridge
 3. Follow setup steps and specify connection via Ethernet Bridge in Jetpack installer
 4. Specify Custom Install and Accept EULA for CUDA, then follow all the steps to set Jetson into recovery mode
+
 RPLIDAR SDK and REALSENSE SDK Required
 1. Unpack directories for RPLIDAR SDK and REALSENSE SDK and move them out of the containing folder into the home directory
 2. Run Makefile in REALSENSE SDK
