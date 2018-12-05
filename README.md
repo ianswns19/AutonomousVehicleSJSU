@@ -34,6 +34,7 @@ RPLIDAR SDK and REALSENSE SDK Required
 1. Unpack directories for RPLIDAR SDK and REALSENSE SDK and move them out of the containing folder into the home directory
 2. Run Makefile in REALSENSE SDK
    - COMMAND: $ make
+
 Unpack ROS directory and move to home directory - change catkin workspace to racecar-ws
 Make sure to run a catkin make inside of racecar-ws directory
 
